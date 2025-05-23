@@ -36,7 +36,7 @@ Replicate specific figures from the following published studies using publicly a
 
 Some datasets are too large to upload to GitHub. You may download the needed files from this shared Google Drive folder:
 
-🔗 [[Download Data](https://drive.google.com/drive/folders/1rHUCVp0uQuHDxozFBXVhhiUNfRmb65mW?usp=sharing)](https://drive.google.com/drive/folders/1WMrOdUe-rPSCKEd_xTu_RYU-BphvQ517?usp=sharing)
+🔗 (https://drive.google.com/drive/folders/1WMrOdUe-rPSCKEd_xTu_RYU-BphvQ517?usp=sharing)
 
 ---
 

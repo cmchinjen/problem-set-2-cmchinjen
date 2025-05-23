@@ -29,3 +29,20 @@ Replicate specific figures from the following published studies using publicly a
    - Replication of **Figure 1**.  
    - *The effects of roads on trade and migration: Evidence from a planned capital city*  
    - *AEJ: Applied Economics*, 16(2), 389–421.
+
+--- 
+
+## 📦 Data Sources
+
+Some datasets are too large to upload to GitHub. You may download the needed files from this shared Google Drive folder:
+
+🔗 [[Download Data](https://drive.google.com/drive/folders/1rHUCVp0uQuHDxozFBXVhhiUNfRmb65mW?usp=sharing)](https://drive.google.com/drive/folders/1WMrOdUe-rPSCKEd_xTu_RYU-BphvQ517?usp=sharing)
+
+---
+
+## 💡 Notes
+
+- All code and visualizations are for educational purposes.
+- This project is part of an academic exercise, not peer-reviewed research.
+- Figures aim to reproduce layout and insights from the original works.
+
